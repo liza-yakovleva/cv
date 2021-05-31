@@ -11,4 +11,4 @@ company: 'SkillUp'
 showInProjects: true
 ---
 
-Find out how we built a custom headless CMS with Node, Express, and Firebase for a project at Upstatement
+Single page web application built with JS, HTML and CSS.

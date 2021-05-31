@@ -11,4 +11,4 @@ company: 'Skill Up'
 showInProjects: true
 ---
 
-A single page web app for helping me choose where to travel, built with Next.js, Firebase, and Tailwind CSS
+Single page web application built with JS, HTML and CSS.

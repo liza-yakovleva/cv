@@ -1,7 +1,7 @@
 ---
 date: '2021-12-02'
 title: 'Parallax Mountains'
-github: 'https://github.com/lizayakovleva/parallax-mountains'
+github: 'https://github.com/liza-yakovleva/parallax-mountains'
 external: 'https://liza-yakovleva.github.io/parallax-mountains/'
 tech:
   - HTML
@@ -11,4 +11,4 @@ company: 'Skill Up'
 showInProjects: true
 ---
 
-Complete overhaul and redesign of NU Women in Tech's club website using Jekyll, built while serving as web chair on the e-board.
+Parallax effect created using css and js in february 2021.

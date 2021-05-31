@@ -1,7 +1,7 @@
 ---
 date: '2021-01-05'
 title: 'Weather Widget'
-github: 'https://github.com/lizayakkovleva/widget'
+github: 'https://github.com/liza-yakovleva/widget'
 external: 'https://liza-yakovleva.github.io/widget/'
 tech:
   - HTML
@@ -10,4 +10,4 @@ tech:
 showInProjects: true
 ---
 
-A simple Google Keep clone built with Vue and Firebase.
+Weather Widget built with AJAX, HTML and CSS.

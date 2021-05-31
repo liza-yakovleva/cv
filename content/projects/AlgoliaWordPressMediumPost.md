@@ -13,4 +13,4 @@ company: 'SkillUp'
 showInProjects: true
 ---
 
-Building a custom multisite compatible WordPress plugin to build global search with Algolia
+Online version of the to-do planner for quick and easy use. Created in April 2021 on React.
